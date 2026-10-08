@@ -1,0 +1,17 @@
+{
+  "k": 5,
+  "k_reason": "elbow at k=5; best silhouette in [3,8] is 0.336 at k=3; k=5 has silhouette 0.318 and is the closest to the elbow among k values within 90% of the best silhouette.",
+  "elbow_k": 5,
+  "silhouette": 0.3181,
+  "pca_explained_variance_2d": 0.9386,
+  "customers": 4338,
+  "cleaning": {
+    "raw_rows": 541909,
+    "after_drop_missing_customer": 406829,
+    "after_drop_cancellations": 397924,
+    "after_positive_qty_price": 397884,
+    "after_drop_duplicates": 392692,
+    "customers": 4338
+  },
+  "demo": false
+}

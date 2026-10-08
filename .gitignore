@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (too large / licensed separately - download with scripts/download_data.py)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Demo outputs (synthetic data) - only commit results from the real dataset
+reports/demo/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

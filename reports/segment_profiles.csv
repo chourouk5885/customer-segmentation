@@ -1,0 +1,6 @@
+Segment,Customers,Recency_median_days,Frequency_median,Monetary_median,Recency_mean_days,Frequency_mean,Monetary_mean,Revenue,Customer_share_%,Revenue_share_%,Description,Recommended_action
+Champions,344,8.0,15.0,6121.22,12.74,20.61,13726.79,4722014.05,7.93,53.13,"Bought recently, buy often and spend the most.","Reward them: VIP/loyalty perks, early access to new products, ask for reviews and referrals."
+Loyal Customers,960,16.0,5.0,1803.74,19.44,5.76,2154.06,2067897.34,22.13,23.27,Regular buyers with above-average spend who are still active.,"Upsell higher-value products, cross-sell bundles, invite into the loyalty program."
+At Risk,1008,82.0,3.0,1001.35,106.44,3.09,1436.04,1447530.88,23.24,16.29,"Used to buy often and spend well, but haven't purchased in a while.","Win-back campaign now: personalised emails, limited-time offer, ask what changed."
+Promising / New,859,25.0,1.0,350.9,28.74,1.61,384.88,330610.95,19.8,3.72,Bought recently but only a few times and with modest spend so far.,"Onboarding journey, second-purchase incentive, product recommendations to build the habit."
+Hibernating / Lost,1167,216.0,1.0,241.62,213.08,1.21,273.48,319155.67,26.9,3.59,"Last purchase long ago, few orders, low spend.",Low-cost automated reactivation only; exclude from expensive campaigns if they don't respond.
